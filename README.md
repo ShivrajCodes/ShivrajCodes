@@ -9,6 +9,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.instagram.com/shivrajdecodes/?hl=en" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="instagram" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shivraj-bhattacharya-516287282/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -49,4 +55,10 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
+</p>
+
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShivrajCodes&show_icons=true&locale=en" alt="ShivrajCodes" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivrajCodes&" alt="ShivrajCodes" />
 </p>
