@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **enhancing my skills further**
 
-- 🌱 I’m currently learning **React, Svelte, and NextJS**
+- 🌱 I’m currently learning **NextJS and Express**
 
 - ⚡ Fun fact **I like shooting for the stars and making memories along the way. 🌟📷**
 
